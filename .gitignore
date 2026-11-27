@@ -1,0 +1,12 @@
+.venv/
+.env
+.adk/
+__pycache__/
+*.pyc
+.DS_Store
+staging/
+logs/*.jsonl
+logs/weekly_digest.md
+logs/launchd_*.log
+vault_sandbox/多模态大模型*.md
+vault_sandbox/前沿开源视觉模型*.md
